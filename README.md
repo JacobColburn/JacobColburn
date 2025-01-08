@@ -7,7 +7,7 @@ I'm **Hunter**, a recent **Software Engineering graduate** from the University o
 ## About Me  
 - 🏡 **From**: Alabama  
 - 💻 **How It Started**: My love for computers began with my grandma introducing me to learning games over dial-up, and eventually, *RuneScape*. Growing up in a family that couldn't afford a computer, I didn't get my own until my 20s—making me even more determined to dive into the world of software development.
-- 🎖 **Background**: Proudly served in the U.S. Army for 4 years, where I developed discipline, resilience, attention to detail, and a love for tackling challenges  
+- 🎖 **Background**: Proudly served in the U.S. Army for 4 years, where I developed discipline, resilience, attention to detail, and a love for challenges.
 - 🧠 **My Edge**: As a veteran and someone with ADHD, I thrive in fast-paced environments, enjoy thinking outside the box, and excel at tackling puzzles and challenges.  
 - 🎮 **Fun Facts**: I’m a gamer, diamond-handed stock market nerd, and someone who’s constantly learning new skills.  
 
@@ -34,4 +34,4 @@ I’m setting up GitHub to **learn**, **showcase my skills**, **collaborate on e
 
 ---
 
-Thanks for visiting my profile—don’t hesitate to reach out or explore my repositories. Im excited to work with new people, learn more than i ever thought possible, and build something amazing.
+Thanks for visiting my profile—don’t hesitate to reach out or explore my repositories. Im excited to work with new people, learn more than I ever thought possible, and build something amazing.
